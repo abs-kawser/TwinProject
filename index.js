@@ -1,4 +1,8 @@
 function duplicate(a,b) {
      return a*b;
 }
-duplicate(5,2);
+
+const result = duplicate(5,2);
+
+console.log(result);
+
